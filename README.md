@@ -5,10 +5,8 @@
 Timezone packages:
 
 - [tzf](https://github.com/ringsaturn/tzf): a timezone finder for Go&Python.
-  - [tzfpy](https://github.com/ringsaturn/tzf/tree/main/python): tzf's Python binding.
 - [tzf-rs](https://github.com/ringsaturn/tzf-rs): a timezone finder for Rust.
-  - [geometry-rs](https://github.com/ringsaturn/geometry-rs): point in polygon search for Rust.
-  - [tzf-rs-py](https://github.com/ringsaturn/tzf-rs-py): tzf-rs's Python binding.
+- [tzfpy](https://github.com/ringsaturn/tzfpy): tzf-rs's Python binding.
 
 <!--
 **ringsaturn/ringsaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
