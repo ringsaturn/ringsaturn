@@ -4,7 +4,7 @@
 
 Timezone packages:
 
-- [tzf](https://github.com/ringsaturn/tzf): a timezone finder for Go&Python.
+- [tzf](https://github.com/ringsaturn/tzf): a timezone finder for Go.
 - [tzf-rs](https://github.com/ringsaturn/tzf-rs): a timezone finder for Rust.
 - [tzfpy](https://github.com/ringsaturn/tzfpy): tzf-rs's Python binding.
 
