@@ -4,9 +4,15 @@
 
 Timezone packages:
 
-- [tzf](https://github.com/ringsaturn/tzf): a timezone finder for Go.
-- [tzf-rs](https://github.com/ringsaturn/tzf-rs): a timezone finder for Rust.
-- [tzfpy](https://github.com/ringsaturn/tzfpy): tzf-rs's Python binding.
+| Language  | Link                                                            | Note                |
+| ------------------ | --------------------------------------------------------------- | ------------------- |
+| Go                 | [`ringsaturn/tzf`](https://github.com/ringsaturn/tzf)           |                     |
+| Rust               | [`ringsaturn/tzf-rs`](https://github.com/ringsaturn/tzf-rs)     |                     |
+| Python             | [`ringsaturn/tzfpy`](https://github.com/ringsaturn/tzfpy)       | build with tzf-rs   |
+| Wasm(browser only) | [`ringsaturn/tzf-wasm`](https://github.com/ringsaturn/tzf-wasm) | build with tzf-rs   |
+
+
+Or onine preview: <https://ringsaturn.github.io/tzf-web/>.
 
 <!--
 **ringsaturn/ringsaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
