@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## Side Projects
+### Side Projects
 
-Timezone packages:
+#### Timezone packages
 
 | Language           | Link                                                            |
 | ------------------ | --------------------------------------------------------------- |
