@@ -11,7 +11,7 @@
 | Python             | [`ringsaturn/tzfpy`](https://github.com/ringsaturn/tzfpy)       |
 | Wasm(browser only) | [`ringsaturn/tzf-wasm`](https://github.com/ringsaturn/tzf-wasm) |
 
-Or onine preview: <https://ringsaturn.github.io/tzf-web/>.
+Or online preview: <https://ringsaturn.github.io/tzf-web/>.
 
 <!--
 **ringsaturn/ringsaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
