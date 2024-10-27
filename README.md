@@ -13,6 +13,13 @@
 
 Or online preview: <https://ringsaturn.github.io/tzf-web/>.
 
+#### Other
+
+- [pk](https://github.com/ringsaturn/pk): Placekey's Go implementation.
+- [go-aqi](https://github.com/ringsaturn/go-aqi): Air Quality Index (AQI) calculation in Go.
+- [apopy](https://github.com/ringsaturn/apopy): Python client for Apollo configuration center.
+- [azuretts](https://github.com/ringsaturn/azuretts): Minimal Azure Text-to-Speech client in Go.
+
 <!--
 **ringsaturn/ringsaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
