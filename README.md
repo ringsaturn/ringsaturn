@@ -4,13 +4,12 @@
 
 Timezone packages:
 
-| Language  | Link                                                            | Note                |
-| ------------------ | --------------------------------------------------------------- | ------------------- |
-| Go                 | [`ringsaturn/tzf`](https://github.com/ringsaturn/tzf)           |                     |
-| Rust               | [`ringsaturn/tzf-rs`](https://github.com/ringsaturn/tzf-rs)     |                     |
-| Python             | [`ringsaturn/tzfpy`](https://github.com/ringsaturn/tzfpy)       | build with tzf-rs   |
-| Wasm(browser only) | [`ringsaturn/tzf-wasm`](https://github.com/ringsaturn/tzf-wasm) | build with tzf-rs   |
-
+| Language           | Link                                                            |
+| ------------------ | --------------------------------------------------------------- |
+| Go                 | [`ringsaturn/tzf`](https://github.com/ringsaturn/tzf)           |
+| Rust               | [`ringsaturn/tzf-rs`](https://github.com/ringsaturn/tzf-rs)     |
+| Python             | [`ringsaturn/tzfpy`](https://github.com/ringsaturn/tzfpy)       |
+| Wasm(browser only) | [`ringsaturn/tzf-wasm`](https://github.com/ringsaturn/tzf-wasm) |
 
 Or onine preview: <https://ringsaturn.github.io/tzf-web/>.
 
