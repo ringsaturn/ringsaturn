@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./cover.webp" alt="Cover Image" width="300" height="300">
+<img src="./cover.webp" alt="Cover Image" width="300" height="300" align="right">
 
 ### Side Projects
 
