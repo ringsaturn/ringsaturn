@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](./cover.webp)
+
 ### Side Projects
 
 #### Timezone packages
