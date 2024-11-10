@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](./cover.webp)
+<img src="./cover.webp" alt="Cover Image" width="300" height="300">
 
 ### Side Projects
 
