@@ -6,13 +6,14 @@
 
 #### Timezone packages
 
-| Language           | Link                                                              |
-| ------------------ | ----------------------------------------------------------------- |
-| Go                 | [`ringsaturn/tzf`](https://github.com/ringsaturn/tzf)             |
-| Rust               | [`ringsaturn/tzf-rs`](https://github.com/ringsaturn/tzf-rs)       |
-| Python             | [`ringsaturn/tzfpy`](https://github.com/ringsaturn/tzfpy)         |
-| Swift              | [`ringsaturn/tzf-swift`](https://github.com/ringsaturn/tzf-swift) |
-| Wasm(browser only) | [`ringsaturn/tzf-wasm`](https://github.com/ringsaturn/tzf-wasm)   |
+| Use Case             | Link                                                              |
+| -------------------- | ----------------------------------------------------------------- |
+| Go                   | [`ringsaturn/tzf`](https://github.com/ringsaturn/tzf)             |
+| Rust                 | [`ringsaturn/tzf-rs`](https://github.com/ringsaturn/tzf-rs)       |
+| Python               | [`ringsaturn/tzfpy`](https://github.com/ringsaturn/tzfpy)         |
+| Swift                | [`ringsaturn/tzf-swift`](https://github.com/ringsaturn/tzf-swift) |
+| Wasm(browser only)   | [`ringsaturn/tzf-wasm`](https://github.com/ringsaturn/tzf-wasm)   |
+| PostgreSQL extension | [`ringsaturn/tzf-pg`](https://github.com/ringsaturn/tzf-pg)       |
 
 Or online preview: <https://ringsaturn.github.io/tzf-web/>.
 
