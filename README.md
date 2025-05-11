@@ -13,7 +13,7 @@
 | Python               | [`ringsaturn/tzfpy`](https://github.com/ringsaturn/tzfpy)         |
 | Swift                | [`ringsaturn/tzf-swift`](https://github.com/ringsaturn/tzf-swift) |
 | Wasm(browser only)   | [`ringsaturn/tzf-wasm`](https://github.com/ringsaturn/tzf-wasm)   |
-| PostgreSQL extension | [`ringsaturn/tzf-pg`](https://github.com/ringsaturn/tzf-pg)       |
+| PostgreSQL extension | [`ringsaturn/pg-tzf`](https://github.com/ringsaturn/pg-tzf)       |
 
 Or online preview: <https://ringsaturn.github.io/tzf-web/>.
 
