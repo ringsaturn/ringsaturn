@@ -17,6 +17,8 @@
 
 Or online preview: <https://ringsaturn.github.io/tzf-web/>.
 
+Please see <https://project-tzf.ringsaturn.me> for the summary of the project tzf.
+
 #### Other
 
 - [pk](https://github.com/ringsaturn/pk): Placekey's Go implementation.
