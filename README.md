@@ -26,6 +26,7 @@ Please see <https://project-tzf.ringsaturn.me> for the summary of the project tz
 - [apopy](https://github.com/ringsaturn/apopy): Python client for Apollo configuration center.
 - [azuretts](https://github.com/ringsaturn/azuretts): Minimal Azure Text-to-Speech client in Go.
 - [reversejp](https://github.com/ringsaturn/reversejp): Japan Geo Reverse Lookup for Rust&Python.
+- [ghcn-showcases](https://ringsaturn.github.io/ghcn-showcases/): Some showcases of GHCN data.
 
 <!--
 **ringsaturn/ringsaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
